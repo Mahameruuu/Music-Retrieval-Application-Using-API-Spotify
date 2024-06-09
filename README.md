@@ -11,26 +11,26 @@ Proyek ini bertujuan untuk mengembangkan sebuah aplikasi web yang dapat mengambi
 
 ## Instalasi
 
-Clone repositori ke lokal Anda
+**Clone repositori ke lokal Anda**
 
    ```
    git clone https://github.com/username/repo-name.git
    ```
 
-Masuk ke direktori proyek
+**Masuk ke direktori proyek**
 
    ```
    cd repo-name
    ```
 
-Instal dependensi yang diperlukan
+**Instal dependensi yang diperlukan**
 
    ```
    pip install -r requirements.txt
 
    ```
 
-Jalankan program dengan perintah dibawah ini
+**Jalankan program dengan perintah dibawah ini**
 
    ```
    streamlit run app.py
